@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#bin/activate_certificate.sh
+bin/activate_IPTV.sh
+
+logger "scripts d'initialisation terminés"
